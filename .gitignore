@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Zipped copies of the font folders in Design/Fonts
+Design/Fonts/*.zip
+
+# Only the Regular weights are used by the app (copied into auto_sparkle/fonts).
+# Keep those and the licence files; ignore the other font weights.
+Design/Fonts/**/*.ttf
+!Design/Fonts/**/*-Regular.ttf

@@ -1,0 +1,8 @@
+# Store text files with LF line endings in the repo; Git converts on checkout as configured locally.
+* text=auto
+
+*.png binary
+*.jpg binary
+*.ttf binary
+*.zip binary
+*.jar binary
