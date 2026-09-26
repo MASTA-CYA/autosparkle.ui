@@ -1,6 +1,23 @@
-# Auto Sparkle
+<p align="center">
+  <img src="Design/logo.png" width="200" alt="Auto Sparkle logo">
+</p>
 
-A Flutter app for a mobile car wash business. Customers book a wash at home or at the shop, track appointments and wash history, review completed washes, and shop for car accessories.
+<h1 align="center">Auto Sparkle</h1>
+
+<p align="center">
+  <em>A sparkling car, wherever you are</em> — a Flutter mobile app for a fictional mobile car wash.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.44-02569B?logo=flutter&logoColor=white" alt="Flutter 3.44">
+  <img src="https://img.shields.io/badge/Dart-3-0175C2?logo=dart&logoColor=white" alt="Dart 3">
+  <img src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white" alt="Platform: Android">
+  <img src="https://img.shields.io/badge/status-prototype-orange" alt="Status: prototype">
+</p>
+
+---
+
+Customers book a wash at home or at the shop, track appointments and wash history, review completed washes, and shop for car accessories.
 
 > **Status: UI prototype.** Every screen runs on built-in demo data and there is no backend yet. Features that need one (payments, sign-in, search, saved addresses, voice notes) show a "coming soon" message.
 
@@ -105,7 +122,7 @@ auto_sparkle/lib/
 ├── message-component/         # Inbox page, message widgets, MessageService
 ├── user-component/            # Profile page
 └── common/                    # Shared navigation, theme, logger, storage, widgets
-Design/Fonts/                  # Source font files and licences
+Design/                        # README logo, source fonts and their licences
 Screens/                       # Screenshots used in this README
 ```
 
